@@ -291,6 +291,7 @@ SRC_C = \
 	servo.c \
 	dac.c \
 	adc.c \
+	mymodule.c \
 	$(wildcard $(BOARD_DIR)/*.c)
 
 SRC_O = \
